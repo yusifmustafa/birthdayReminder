@@ -1,0 +1,34 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+}
+.App{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+body {
+  background: #F28AB2;  
+}
+.btn{
+  background: #F28AB2;
+  color: #fff;
+ width: 15rem;
+ font-weight: 600;
+ margin-top: 1.5rem;
+}
+
+.card-title{
+  text-align: left;
+}
+
+
+
+.card{
+  border-radius: 10px;
+}
